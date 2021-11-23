@@ -9,12 +9,13 @@
 
 
 [Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png)
-[Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png)
+
 
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jily18/ttn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png)
 
 ### Support or Contact
 
