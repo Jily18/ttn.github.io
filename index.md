@@ -12,11 +12,6 @@
 
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jily18/ttn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-[Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png)
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+新浪微博：[Link](https://weibo.com/u/5804614520?profile_ftype=1&is_all=1#_0)
