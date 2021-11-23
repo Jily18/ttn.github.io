@@ -17,10 +17,10 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png
+)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+).
 
 ### Jekyll Themes
 
