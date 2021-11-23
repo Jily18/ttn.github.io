@@ -17,8 +17,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png
-)
+[Link](url) and ![Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/img/undraw_Location_tracking_re_n3ok.png)
 ```
 ).
 
