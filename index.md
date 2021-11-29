@@ -22,6 +22,8 @@
 ## 作者说 ：“看了不点赞 算什么好汉”
 作者此文微博：[Link](https://m.weibo.cn/5804614520/4706854343805184)  
 
+### 阅读更多：
+作者写的一篇小记：[Link](https://m.weibo.cn/5804614520/4707029786820667)
 
 ### Support or Contact
 作者新浪微博：[Link](https://weibo.com/u/5804614520?profile_ftype=1&is_all=1#_0)
